@@ -12,8 +12,7 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/leonardowaichert/clean-node-api/issues"
-  },
-  "homepage": "https://github.com/leonardowaichert/clean-node-api#readme"
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.2.1"
+  }
 }
